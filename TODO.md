@@ -14,3 +14,6 @@
 - [ ] Expand project goals
 - [ ] Observations for metropolitan districts
 - [ ] Observations for Wards
+
+## Checking
+- [ ] Ensure consistancy through versions
