@@ -2,7 +2,7 @@
 
 ## Project Management
 - [ ] Edit Readme to reflect project updates (i.e. part 1 clustering Toronto, part 2 Manchester)
-- [ ] Clean folder structure
+- [X] Clean folder structure
 
 ## Edits
 - [ ] Add latitude and the longitude coordinates for Toronto neighbourhoods manually in ClusteringToronto_v2
