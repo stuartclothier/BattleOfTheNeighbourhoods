@@ -18,10 +18,10 @@
 - [ ] Observations for Wards
 
 ### Coding
-- [ ] Find postcodes geo coords with HERE API 
-- [ ] query lookup API for areas
-- [ ] query details API for areas
+- [X] Search postcodes geo coords with HERE API 
+- [X] query HERE browse API for areas
 - [ ] folium mapping postcodes
+- [ ] folium mapping districts
 
 ## Checking
 - [ ] Ensure consistancy through versions
