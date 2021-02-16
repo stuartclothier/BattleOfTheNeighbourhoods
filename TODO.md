@@ -11,13 +11,19 @@
 - [ ] Improve cleanhtml function
 - [ ] Better object naming convention
 
-## Manchester 
+## Manchester
+
+### Documentation
 - [ ] Expand project goals
 - [ ] Expand area
 - [ ] Observations for metropolitan districts
 - [ ] Observations for Wards
+
+### Coding
+- [ ] Find postcodes geo coords with HERE API 
+- [ ] query lookup API for areas
+- [ ] query details API for areas
 - [ ] folium mapping postcodes
-- [ ] Geopy search for distance
 
 ## Checking
 - [ ] Ensure consistancy through versions
