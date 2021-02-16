@@ -9,6 +9,7 @@
 - [ ] Add latitude and the longitude coordinates for Toronto neighbourhoods manually in ClusteringToronto_v2
 - [ ] Add relevant insights from foursquare on ClusteringToronto_v3
 - [ ] Improve cleanhtml function
+- [ ] Better object naming convention
 
 ## Manchester 
 - [ ] Expand project goals
