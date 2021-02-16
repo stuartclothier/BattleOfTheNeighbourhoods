@@ -13,8 +13,11 @@
 
 ## Manchester 
 - [ ] Expand project goals
+- [ ] Expand area
 - [ ] Observations for metropolitan districts
 - [ ] Observations for Wards
+- [ ] folium mapping postcodes
+- [ ] Geopy search for distance
 
 ## Checking
 - [ ] Ensure consistancy through versions
