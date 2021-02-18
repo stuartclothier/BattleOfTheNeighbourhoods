@@ -2,7 +2,7 @@
 
 ## Project Management
 - [ ] **Edit Readme to reflect project updates (i.e. part 1 clustering Toronto, part 2 Manchester)**
-- [ ] Ensure consistancy through notebooks/versions
+- [ ] Ensure consistancy through all notebooks/versions
 
 ## Toronto
 
