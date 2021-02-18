@@ -27,7 +27,7 @@
 - [X] Search postcodes geo coords with HERE API 
 - [X] query HERE browse API for areas
 - [X] Save query result as json/csv to prevent need to re-enter credentials every time
-- [ ] folium mapping postcodes
-- [ ] folium mapping districts
+- [X] folium mapping postcodes
+- [X] folium mapping districts
 
 
