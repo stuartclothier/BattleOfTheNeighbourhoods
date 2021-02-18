@@ -1,9 +1,8 @@
 # TODO
 
 ## Project Management
-- [ ] Edit Readme to reflect project updates (i.e. part 1 clustering Toronto, part 2 Manchester)
-- [X] Clean folder structure
-- [ ] Ensure consistancy through versions
+- [ ] **Edit Readme to reflect project updates (i.e. part 1 clustering Toronto, part 2 Manchester)**
+- [ ] Ensure consistancy through notebooks/versions
 
 ## Toronto
 
@@ -15,6 +14,10 @@
 
 ## Manchester
 
+### Project Management
+- [ ] **Outline project structure (e.g. what notebooks will I have? what will they contain? etc.)**
+- [ ] Fix References
+
 ### Documentation
 - [ ] Expand project goals
 - [ ] Expand area
@@ -23,7 +26,8 @@
 
 ### Coding
 - [X] Improve cleanhtml function
-- [ ] Create function for HERE API
+- [ ] Provide summary of HERE API insights
+- [ ] Create function(s) for HERE API
 - [X] Search postcodes geo coords with HERE API 
 - [X] query HERE browse API for areas
 - [X] Save query result as json/csv to prevent need to re-enter credentials every time
