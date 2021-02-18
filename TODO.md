@@ -23,6 +23,7 @@
 
 ### Coding
 - [X] Improve cleanhtml function
+- [ ] Create function for HERE API
 - [X] Search postcodes geo coords with HERE API 
 - [X] query HERE browse API for areas
 - [X] Save query result as json/csv to prevent need to re-enter credentials every time
