@@ -34,5 +34,6 @@
 - [X] Save query result as json/csv to prevent need to re-enter credentials every time
 - [X] folium mapping postcodes
 - [X] folium mapping districts
+- [ ] Radar charts for feature analysis
 
 
