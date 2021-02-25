@@ -8,7 +8,7 @@
 ## Toronto
 
 ### Coding
-- [ ] add improved cleanhtml function
+- [ ] add improved cleanhtml function/use built in bs4 functions 
 - [ ] Test cleanhtml function
 - [ ] Add latitude and the longitude coordinates for Toronto neighbourhoods manually in ClusteringToronto_v2
 - [ ] Add relevant insights from foursquare on ClusteringToronto_v3
@@ -27,7 +27,7 @@
 - [ ] Observations for Wards
 
 ### Coding
-- [X] Improve cleanhtml function
+- [ ] Improve cleanhtml function/use built in bs4 functions 
 - [ ] Provide summary of HERE API insights
 - [ ] Create function(s) for HERE API
 - [X] Search postcodes geo coords with HERE API 
