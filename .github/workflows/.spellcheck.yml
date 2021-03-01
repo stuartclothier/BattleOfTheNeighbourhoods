@@ -10,6 +10,6 @@ jobs:
     - uses: actions/checkout@master
     - uses: rojopolis/spellcheck-github-actions@0.11.0
       name: Spellcheck
-       with:
+      with:
         source_files: README.md TODO.md
         task_name: Markdown
