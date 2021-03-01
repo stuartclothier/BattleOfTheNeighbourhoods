@@ -1,33 +1,34 @@
 # TODO
 
 ## Project Management
-- [ ] **Edit Readme to reflect project updates (i.e. part 1 clustering Toronto, part 2 Manchester)**
+- [ ] Edit Readme to reflect current project status
 - [ ] Ensure consistancy through all notebooks/versions
-- [ ] Ensure licensing up to date
+- [ ] Ensure licensing up to date?
 
 ## Toronto
 
+### Sub-Project Management
+- [ ] **Link Github sections to coursera**
+
 ### Coding
-- [ ] add improved cleanhtml function/use built in bs4 functions 
-- [ ] Test cleanhtml function
-- [ ] Add latitude and the longitude coordinates for Toronto neighbourhoods manually in ClusteringToronto_v2
-- [ ] Add relevant insights from foursquare on ClusteringToronto_v3
+- [ ] **Add some relevant insights from foursquare on Toronto_v3**
 
 ## Manchester
 
-### Project Management
+### Sub-Project Management
 - [ ] **Outline project structure (e.g. what notebooks will I have? what will they contain? etc.)**
+- [ ] Clean folder
 - [ ] Fix References
 
 ### Documentation
-- [ ] Explain what libraries are doing
 - [ ] Expand project goals
+- [X] Explain what libraries are doing
 - [ ] Expand area
 - [ ] Observations for metropolitan districts
 - [ ] Observations for Wards
 
 ### Coding
-- [ ] Improve cleanhtml function/use built in bs4 functions 
+- [X] Improve cleanhtml function/use built in bs4 functions 
 - [ ] Provide summary of HERE API insights
 - [ ] Create function(s) for HERE API
 - [X] Search postcodes geo coords with HERE API 
@@ -37,4 +38,4 @@
 - [X] folium mapping districts
 - [ ] Radar charts for feature analysis
 
-
+### Report
