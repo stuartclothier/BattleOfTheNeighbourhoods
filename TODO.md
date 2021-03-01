@@ -1,9 +1,8 @@
 # TODO
 
 ## Project Management
-- [ ] Edit Readme to reflect current project status
+- [ ] Ensure Readme reflects current project status
 - [ ] Ensure consistancy through all notebooks/versions
-- [ ] Ensure licensing up to date?
 
 ## Toronto
 
