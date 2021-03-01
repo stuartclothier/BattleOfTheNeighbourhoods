@@ -5,7 +5,7 @@
 #### Project Goals
 
 This project has two goals:
-- Firstly, it seeks to cluster neighbourhoods in Toronto based on postalcode and borough information. The neighbourhoods are then analysed in terms of what local amenities each neighbourhood has.
+- Firstly, it seeks to cluster neighbourhoods in Toronto based on postal code and borough information. The neighbourhoods are then analysed in terms of what local amenities each neighbourhood has.
 - Secondly, Manchester neighbourhoods are analysed to determine which areas would be best for a young professional to move into.
 
 #### Toronto Neighbourhoods
