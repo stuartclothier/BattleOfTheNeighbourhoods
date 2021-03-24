@@ -70,7 +70,7 @@ below in Figure 2.
 
 <center>
 <figure>
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Manchester_Venues_Choropleth.png" style="width:500px;height:350px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Manchester_Venues_Choropleth.PNG" style="width:500px;height:350px;">
 <figcaption>Figure 2: Choropleth of total venue within Greater Manchester ward boundaries.
 Plotted using Folium with Open Street Map tiles. Data Source: Foursquare.</figcaption>
 </figure>
@@ -97,7 +97,7 @@ prevalence of outliers.
 
 <center>
 <figure>
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/count_distributions.png">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/count_distributions.PNG">
 <figcaption>Figure 3: Venue count data boxplots; Left to Right: Unscaled, Log transformed and min-max
 scaled; Min-max scaled </figcaption>
 </figure>
@@ -114,8 +114,8 @@ using the Yellowbrick package[link please].
 
 <center>
 <figure>
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Clustering_Outputs/Elbow_Method_nontransfrom.png" style="width:400px;height:250px;">
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Clustering_Outputs/Elbow_Method_logtransfrom.png" style="width:400px;height:250px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Clustering_Outputs/Elbow_Method_nontransfrom.PNG" style="width:400px;height:250px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Clustering_Outputs/Elbow_Method_logtransfrom.PNG" style="width:400px;height:250px;">
 <figcaption>Figure 4: Elbow method based on distortion score at k values 2 to 10; left: untransformed
 features, right: log transformed features. Suggested k value based on point with maximum curvature.
 </figcaption>
@@ -139,8 +139,8 @@ The high mean score will be a result of a considerably larger, well fitting clus
 
 <center>
 <figure>
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Clustering_Outputs/silhouette_nontransfrom.png" style="width:800px;height:250px;">
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Clustering_Outputs/silhouette_logtransfrom.png" style="width:800px;height:250px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Clustering_Outputs/silhouette_nontransfrom.PNG" style="width:800px;height:250px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Clustering_Outputs/silhouette_logtransfrom.PNG" style="width:800px;height:250px;">
 <figcaption>Figure 5: Silhouette plots for 3 to 5 K Means clustering; left: untransformed features,
 right: log transformed features.</figcaption>
 </figure>
@@ -180,10 +180,10 @@ features and 5 cluster solutions of the log transformed features, using both K M
 
 <center>
 <figure>
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Clustering_Outputs/KMeans_4_nontransfrom.png" style="width:500px;height:350px;">
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Clustering_Outputs/HAC_4_nontransfrom.png" style="width:500px;height:350px;">
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Clustering_Outputs/KMeans_5_logtransfrom.png" style="width:500px;height:350px;">
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/tree/main/Project%20Files/Manchester/Images/Clustering_Outputs/HAC_5_logtransfrom.png" style="width:500px;height:350px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Clustering_Outputs/KMeans_4_nontransfrom.PNG" style="width:500px;height:350px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Clustering_Outputs/HAC_4_nontransfrom.PNG" style="width:500px;height:350px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Clustering_Outputs/KMeans_5_logtransfrom.PNG" style="width:500px;height:350px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Clustering_Outputs/HAC_5_logtransfrom.PNG" style="width:500px;height:350px;">
 <figcaption>Figure 6: Clustering of Greater Manchester wards; top left (a): non-transformed K Means, top right (b): non-transformed Spatially Constrained Hierarchical
 Agglomerative Clustering, bottom left (c): log-transformed K Means, bottom right (d): log-transformed Spatially Constrained Hierarchical Agglomerative Clustering
 Plotted using Folium with Open Street Map tiles.</figcaption>
