@@ -58,7 +58,7 @@ were the green space areas which were within the wards (Figure 1).
 
 <center>
 <figure>
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Manchester_Greenspace.PNG" style="width:500px;height:350px;">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/Manchester_Greenspace.PNG" style="width:100px;height:350px;">
 <figcaption>Figure 1: Greenspace (green) shown within Greater Manchester ward boundaries
 (orange). Plotted using Folium with Stamen Toner tiles. Data Source: OS Data Hub.</figcaption>
 </figure>
