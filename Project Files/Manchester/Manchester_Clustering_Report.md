@@ -97,7 +97,7 @@ prevalence of outliers.
 
 <center>
 <figure>
-<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/count_distributions.PNG">
+<img src="https://github.com/stuartclothier/BattleOfTheNeighbourhoods/blob/main/Project%20Files/Manchester/Images/count_distributions.png">
 <figcaption>Figure 3: Venue count data boxplots; Left to Right: Unscaled, Log transformed and min-max
 scaled; Min-max scaled </figcaption>
 </figure>
