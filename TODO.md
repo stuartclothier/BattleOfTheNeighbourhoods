@@ -1,5 +1,7 @@
 # TODO
 
+- [ ] Push remaining missing files
+
 ## Future ideas for project?
 - [ ] Heat maps for location based data? 
 - [ ] Inverse square law? 
