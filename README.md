@@ -24,6 +24,6 @@ Notebook files can be found in the [Project Files/Manchester](https://github.com
 
 The core idea behind this project is that areas in Greater Manchester are to be clustered based on the similarites of their characteristics. As a general case, this could be used to assess the desirabilty of certain areas for different types of people, e.g. families, young professionals, working class or affluent people and so on. This project focus on finding areas that would be ideal for a young professional.
 
-The first step in this project is identifying how areas in Greater Manchester are to be divided. Wards were chosen as they can be clearly defined and offer a good level of precision.   
+Greater Manchesters 215 wards are clustered based on nearby venue categories and percentage of ward classified as green space.
 
-Next, the data used to analyse and cluster the nighbourhoods needs to be acquired. Foursquare will be used for venue information, will data from Nomis may be used for additional statistics. The data will be analysed as it is found and insights will be noted.
+Foursquare was used for venue information and OS Data Hub was used for ward boundaries and green space locations. 
